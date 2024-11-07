@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @26gbush
-- 👀 I’m interested in coding in Pygame
+- 👀 I’m interested in mapping, programming, and making/playing video games
 - 🌱 I’m currently learning: Python, specifically Pygame
 - 💞️ I’m looking to collaborate on my Minerealm project, it would be nice if I had another developer working on the project,
 - 📫 How to reach me: DM me on discord, my username is 26gproductions
