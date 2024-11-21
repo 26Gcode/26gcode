@@ -1,4 +1,4 @@
-- 👋 Hi my name is 26gcode (online I use the 26g prefix before my usernames)
+- 👋 Hi my name is 26gcode (online I use the 26g prefix in my usernames)
 - 👀 I’m interested in mapping, statistics,  programming, and making/playing video games
 - 🌱 I’m currently learning: Python, specifically Pygame
 - 💞️ I’m looking to collaborate with someone on my Aegis Chatbot project, I have not released it on Github yet, but I will realease it soon...
